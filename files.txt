@@ -1,0 +1,78 @@
+music/Album - AM/01-Do I Wanna Know.mp3
+music/Album - AM/02-R U Mine.mp3
+music/Album - AM/03-One For The Road.mp3
+music/Album - AM/04-Arabella.mp3
+music/Album - AM/05-I Want It All.mp3
+music/Album - AM/06-No. 1 Party Anthem.mp3
+music/Album - AM/07-Mad Sounds.mp3
+music/Album - AM/09-Why'd You Only Call Me When You're High.mp3
+music/Album - AM/10-Snap Out Of It.mp3
+music/Album - AM/11-Knee Socks.mp3
+music/Album - AM/12-I Wanna Be Yours.mp3
+music/Album - Comeblack/02-No One Like You.mp3
+music/Album - Comeblack/03-The Zoo.mp3
+music/Album - Comeblack/04-Rock You Like a Hurricane (2011).mp3
+music/Album - Comeblack/05-Blackout.mp3
+music/Album - Comeblack/06-Wind of Change.mp3
+music/Album - Comeblack/07-Still Loving You.mp3
+music/Album - Comeblack/08-Tainted Love.mp3
+music/Album - Comeblack/09-Children of the Revolution.mp3
+music/Album - Comeblack/11-Tin Soldier.mp3
+music/Album - Comeblack/12-All Day And All of the Night.mp3
+music/Album - Comeblack/13-Ruby Tuesday.mp3
+music/Album - El Camino/01-Lonely Boy.mp3
+music/Album - El Camino/02-Dead and Gone.mp3
+music/Album - El Camino/03-Gold on the Ceiling.mp3
+music/Album - El Camino/04-Little Black Submarines.mp3
+music/Album - El Camino/05-Money Maker.mp3
+music/Album - El Camino/06-Run Right Back.mp3
+music/Album - El Camino/07-Sister.mp3
+music/Album - El Camino/08-Hell of a Season.mp3
+music/Album - El Camino/10-Nova Baby.mp3
+music/Album - El Camino/11-Mind Eraser.mp3
+music/Album - Social Cues/01-Broken Boy.mp3
+music/Album - Social Cues/02-Social Cues.mp3
+music/Album - Social Cues/03-Black Madonna.mp3
+music/Album - Social Cues/04-Night Running.mp3
+music/Album - Social Cues/06-Ready To Let Go.mp3
+music/Album - Social Cues/07-House Of Glass.mp3
+music/Album - Social Cues/08-Love's The Only Way.mp3
+music/Album - Social Cues/09-The War Is Over.mp3
+music/Album - Social Cues/10-Dance Dance.mp3
+music/Album - Social Cues/11-What I'm Becoming.mp3
+music/Album - Social Cues/12-Tokyo Smoke.mp3
+music/Album - Tell Me I'm Pretty/01-Cry Baby.mp3
+music/Album - Tell Me I'm Pretty/02-Mess Around.mp3
+music/Album - Tell Me I'm Pretty/03-Sweetie Little Jean.mp3
+music/Album - Tell Me I'm Pretty/04-Too Late To Say Goodbye.mp3
+music/Album - Tell Me I'm Pretty/05-Cold Cold Cold.mp3
+music/Album - Tell Me I'm Pretty/06-Trouble.mp3
+music/Album - Tell Me I'm Pretty/07-How Are You True.mp3
+music/Album - Tell Me I'm Pretty/08-That's Right.mp3
+music/Album - Tell Me I'm Pretty/09-Punchin' Bag.mp3
+music/Album - Tell Me I'm Pretty/10-Portuguese Knife Fight.mp3
+music/Album - The Car/01-There'd Better Be A Mirrorball.mp3
+music/Album - The Car/02-I Ain't Quite Where I Think I Am.mp3
+music/Album - The Car/03-Sculptures Of Anything Goes.mp3
+music/Album - The Car/05-Body Paint.mp3
+music/Album - The Car/06-The Car.mp3
+music/Album - The Car/07-Big Ideas.mp3
+music/Album - The Car/08-Hello You.mp3
+music/Album - The Car/09-Mr Schwartz.mp3
+music/Album - The Car/10-Perfect Sense.mp3
+music/Album - Use Your Illusion I/01-Right Next Door To Hell.mp3
+music/Album - Use Your Illusion I/02-Dust N' Bones.mp3
+music/Album - Use Your Illusion I/03-Live And Let Die.mp3
+music/Album - Use Your Illusion I/04-Don't Cry (Original).mp3
+music/Album - Use Your Illusion I/05-Perfect Crime.mp3
+music/Album - Use Your Illusion I/06-You Ain't The First.mp3
+music/Album - Use Your Illusion I/07-Bad Obsession.mp3
+music/Album - Use Your Illusion I/08-Back Off Bitch.mp3
+music/Album - Use Your Illusion I/09-Double Talkin' Jive.mp3
+music/Album - Use Your Illusion I/10-November Rain.mp3
+music/Album - Use Your Illusion I/11-The Garden.mp3
+music/Album - Use Your Illusion I/12-Garden Of Eden.mp3
+music/Album - Use Your Illusion I/13-Don't Damn Me.mp3
+music/Album - Use Your Illusion I/14-Bad Apples.mp3
+music/Album - Use Your Illusion I/15-Dead Horse.mp3
+music/Album - Use Your Illusion I/16-Coma.mp3
