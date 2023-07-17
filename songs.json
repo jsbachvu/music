@@ -701,10 +701,6 @@
         "song": "https://github.com/jsbachvu/music/raw/master/music/Album - Use Your Illusion I/16-Coma.mp3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/img.jpg"
       }
-    },
-    {
-      "bg": "#c9bea28f",
-      "artist": "Bach",
-      "songName": "
+    }
   ]
 }
