@@ -1,4 +1,4 @@
-# > files.txt;
+>files.txt;
 IFS=$'\n'
 for p in $(du -a music | grep .mp3)
 do
