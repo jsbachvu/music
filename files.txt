@@ -116,3 +116,16 @@ music/Album - Use Your Illusion I/13-Don't Damn Me.mp3
 music/Album - Use Your Illusion I/14-Bad Apples.mp3
 music/Album - Use Your Illusion I/15-Dead Horse.mp3
 music/Album - Use Your Illusion I/16-Coma.mp3
+music/Album - Use Your Illusion II/01-Civil War.mp3
+music/Album - Use Your Illusion II/02-14 Years.mp3
+music/Album - Use Your Illusion II/03-Yesterdays.mp3
+music/Album - Use Your Illusion II/04-Knockin' On Heaven's Door.mp3
+music/Album - Use Your Illusion II/05-Get In The Ring.mp3
+music/Album - Use Your Illusion II/06-Shotgun Blues.mp3
+music/Album - Use Your Illusion II/07-Breakdown.mp3
+music/Album - Use Your Illusion II/08-Pretty Tied Up (The Perils Of Rock N' Roll Decadence).mp3
+music/Album - Use Your Illusion II/09-Locomotive (Complicity).mp3
+music/Album - Use Your Illusion II/10-So Fine.mp3
+music/Album - Use Your Illusion II/11-Estranged.mp3
+music/Album - Use Your Illusion II/12-You Could Be Mine.mp3
+music/Album - Use Your Illusion II/13-Don't Cry.mp3
