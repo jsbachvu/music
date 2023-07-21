@@ -76,3 +76,25 @@ music/Album - Use Your Illusion I/13-Don't Damn Me.mp3
 music/Album - Use Your Illusion I/14-Bad Apples.mp3
 music/Album - Use Your Illusion I/15-Dead Horse.mp3
 music/Album - Use Your Illusion I/16-Coma.mp3
+music/Album - Hello, Dolly!/01-Hello, Dolly!.mp3
+music/Album - Hello, Dolly!/02-It's Been A Long, Long Time.mp3
+music/Album - Hello, Dolly!/03-A Lot Of Livin' To Do.mp3
+music/Album - Hello, Dolly!/04-A Kiss To Build A Dream On.mp3
+music/Album - Hello, Dolly!/05-Someday.mp3
+music/Album - Hello, Dolly!/06-Hey Look Me Over.mp3
+music/Album - Hello, Dolly!/07-I Still Get Jealous.mp3
+music/Album - Hello, Dolly!/08-Moon River.mp3
+music/Album - Hello, Dolly!/09-Be My Life's Companion.mp3
+music/Album - Hello, Dolly!/10-Blueberry Hill.mp3
+music/Album - Hello, Dolly!/11-You Are Woman I Am Man.mp3
+music/Album - Hello, Dolly!/12-Jeepers Creepers.mp3
+music/Album - Tranquility Base Hotel & Casino/01-Star Treatment.mp3
+music/Album - Tranquility Base Hotel & Casino/02-One Point Perspective.mp3  music/Album - Tranquility Base Hotel & Casino/03-American Sports.mp3
+music/Album - Tranquility Base Hotel & Casino/04-Tranquility Base Hotel & Casino.mp3
+music/Album - Tranquility Base Hotel & Casino/05-Golden Trunks.mp3
+music/Album - Tranquility Base Hotel & Casino/06-Four Out Of Five.mp3
+music/Album - Tranquility Base Hotel & Casino/07-The World's First Ever Monster Truck Front Flip.mp3
+music/Album - Tranquility Base Hotel & Casino/08-Science Fiction.mp3
+music/Album - Tranquility Base Hotel & Casino/09-She Looks Like Fun.mp3
+music/Album - Tranquility Base Hotel & Casino/10-Batphone.mp3
+music/Album - Tranquility Base Hotel & Casino/11-The Ultracheese.mp3
