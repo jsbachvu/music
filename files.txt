@@ -100,6 +100,12 @@ music/Album - Tranquility Base Hotel & Casino/08-Science Fiction.mp3
 music/Album - Tranquility Base Hotel & Casino/09-She Looks Like Fun.mp3
 music/Album - Tranquility Base Hotel & Casino/10-Batphone.mp3
 music/Album - Tranquility Base Hotel & Casino/11-The Ultracheese.mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/01-Signe (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/02-Before You Accuse Me (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/03-Hey Hey (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/04-Tears in Heaven (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/05-Lonely Stranger (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/06-Nobody Knows You When You're Down and Out (Acoustic Live).mp3
 music/Album - Use Your Illusion I/01-Right Next Door To Hell.mp3
 music/Album - Use Your Illusion I/02-Dust N' Bones.mp3
 music/Album - Use Your Illusion I/03-Live And Let Die.mp3
