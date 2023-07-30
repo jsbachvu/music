@@ -89,6 +89,16 @@ music/Album - The Car/07-Big Ideas.mp3
 music/Album - The Car/08-Hello You.mp3
 music/Album - The Car/09-Mr Schwartz.mp3
 music/Album - The Car/10-Perfect Sense.mp3
+music/Album - The Division Bell/01-Cluster One.mp3
+music/Album - The Division Bell/02-What Do You Want from Me.mp3
+music/Album - The Division Bell/03-Poles Apart.mp3
+music/Album - The Division Bell/04-Marooned.mp3
+music/Album - The Division Bell/05-A Great Day for Freedom.mp3
+music/Album - The Division Bell/06-Wearing the Inside Out.mp3
+music/Album - The Division Bell/07-Take It Back.mp3
+music/Album - The Division Bell/08-Coming Back to Life.mp3
+music/Album - The Division Bell/09-Keep Talking.mp3
+music/Album - The Division Bell/11-High Hopes.mp3
 music/Album - Tranquility Base Hotel & Casino/01-Star Treatment.mp3
 music/Album - Tranquility Base Hotel & Casino/02-One Point Perspective.mp3
 music/Album - Tranquility Base Hotel & Casino/03-American Sports.mp3
@@ -106,6 +116,20 @@ music/Album - Unplugged (Deluxe Edition) (Live)/03-Hey Hey (Acoustic Live).mp3
 music/Album - Unplugged (Deluxe Edition) (Live)/04-Tears in Heaven (Acoustic Live).mp3
 music/Album - Unplugged (Deluxe Edition) (Live)/05-Lonely Stranger (Acoustic Live).mp3
 music/Album - Unplugged (Deluxe Edition) (Live)/06-Nobody Knows You When You're Down and Out (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/07-Layla (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/08-Running on Faith (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/09-Walkin' Blues (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/10-Alberta (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/11-San Francisco Bay Blues (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/12-Malted Milk (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/13-Old Love (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/14-Rollin' & Tumblin' (Acoustic Live).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/15-Circus.mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/16-My Father's Eyes (Take 1).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/17-Running on Faith (Take 1).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/18-Walkin' Blues (Take 1).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/19-My Father's Eyes (Take 2).mp3
+music/Album - Unplugged (Deluxe Edition) (Live)/20-Worried Life Blues.mp3
 music/Album - Use Your Illusion I/01-Right Next Door To Hell.mp3
 music/Album - Use Your Illusion I/02-Dust N' Bones.mp3
 music/Album - Use Your Illusion I/03-Live And Let Die.mp3
