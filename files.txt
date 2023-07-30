@@ -59,6 +59,31 @@ music/Album - Hello, Dolly!/09-Be My Life's Companion.mp3
 music/Album - Hello, Dolly!/10-Blueberry Hill.mp3
 music/Album - Hello, Dolly!/11-You Are Woman I Am Man.mp3
 music/Album - Hello, Dolly!/12-Jeepers Creepers.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/01-Riding with the King.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/02-Ten Long Years.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/03-Key to the Highway.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/04-Marry You.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/05-Three O'Clock Blues.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/06-Help the Poor.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/07-I Wanna Be.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/08-Worried Life Blues.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/09-Days of Old.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/10-When My Heart Beats Like a Hammer.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/11-Hold On I'm Coming.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/12-Come Rain or Come Shine.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/13-Rollin' and Tumblin'.mp3
+music/Album - Riding With The King (20th Anniversary Deluxe Edition)/14-Let Me Love You.mp3
+music/Album - Sand/01-Moment.mp3
+music/Album - Sand/02-Losers.mp3
+music/Album - Sand/03-On A Roll.mp3
+music/Album - Sand/04-I Want You.mp3
+music/Album - Sand/05-You Won't Come Around.mp3
+music/Album - Sand/06-Linger On.mp3
+music/Album - Sand/07-Hourglass.mp3
+music/Album - Sand/08-Passing Through.mp3
+music/Album - Sand/09-Leaving Antwerp.mp3
+music/Album - Sand/10-Halfway.mp3
+music/Album - Sand/11-Powerless.mp3
 music/Album - Social Cues/01-Broken Boy.mp3
 music/Album - Social Cues/02-Social Cues.mp3
 music/Album - Social Cues/03-Black Madonna.mp3
@@ -110,6 +135,23 @@ music/Album - Tranquility Base Hotel & Casino/08-Science Fiction.mp3
 music/Album - Tranquility Base Hotel & Casino/09-She Looks Like Fun.mp3
 music/Album - Tranquility Base Hotel & Casino/10-Batphone.mp3
 music/Album - Tranquility Base Hotel & Casino/11-The Ultracheese.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/01-What A Difference A Day Made.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/02-These Are The Days.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/03-Singin' In The Rain.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/04-Twentysomething.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/05-But For Now.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/06-Old Devil Moon.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/07-I Could Have Danced All Night.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/08-Blame It On My Youth.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/09-I Get A Kick Out Of You.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/11-Wind Cries Mary.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/12-Lover, You Should Have Come Over.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/13-It's About Time.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/14-Next Year Baby.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/15-Everlasting Love.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/16-Frontin' (Live At The BBC _ 2004).mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/17-Can't We Be Friends.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/19-God Only Knows.mp3
 music/Album - Unplugged (Deluxe Edition) (Live)/01-Signe (Acoustic Live).mp3
 music/Album - Unplugged (Deluxe Edition) (Live)/02-Before You Accuse Me (Acoustic Live).mp3
 music/Album - Unplugged (Deluxe Edition) (Live)/03-Hey Hey (Acoustic Live).mp3
