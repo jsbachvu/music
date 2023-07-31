@@ -41,6 +41,17 @@ music/Album - Favourite Worst Nightmare/08-This House is a Circus.mp3
 music/Album - Favourite Worst Nightmare/09-If You Were There, Beware.mp3
 music/Album - Favourite Worst Nightmare/10-The Bad Thing.mp3
 music/Album - Favourite Worst Nightmare/11-Old Yellow Bricks.mp3
+music/Album - Fever/01-Fever.mp3
+music/Album - Fever/02-Changes.mp3
+music/Album - Fever/03-Wrong Faces.mp3
+music/Album - Fever/04-Whatchu Doin'.mp3
+music/Album - Fever/05-Phone Number.mp3
+music/Album - Fever/06-Entertainment.mp3
+music/Album - Fever/07-I'm Never Gonna Let You Down Again.mp3
+music/Album - Fever/08-Grapefruit.mp3
+music/Album - Fever/09-Wrong Vibration.mp3
+music/Album - Fever/10-Roller Coaster.mp3
+music/Album - Fever/11-You're So Real.mp3
 music/Album - Guilty/01-Guilty.mp3
 music/Album - Guilty/02-You Won't Be Satisfied.mp3
 music/Album - Guilty/03-Sentimental Journey.mp3
@@ -212,3 +223,5 @@ music/Album - Use Your Illusion II/10-So Fine.mp3
 music/Album - Use Your Illusion II/11-Estranged.mp3
 music/Album - Use Your Illusion II/12-You Could Be Mine.mp3
 music/Album - Use Your Illusion II/13-Don't Cry.mp3
+music/Album - Why'd You Only Call Me When You're High/1-Why'd You Only Call Me When You're High.mp3
+music/Album - Why'd You Only Call Me When You're High/2-Stop The World I Wanna Get Off With You.mp3
