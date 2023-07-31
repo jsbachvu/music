@@ -30,6 +30,17 @@ music/Album - El Camino/07-Sister.mp3
 music/Album - El Camino/08-Hell of a Season.mp3
 music/Album - El Camino/10-Nova Baby.mp3
 music/Album - El Camino/11-Mind Eraser.mp3
+music/Album - Favourite Worst Nightmare/01-Brianstorm.mp3
+music/Album - Favourite Worst Nightmare/02-Teddy Picker.mp3
+music/Album - Favourite Worst Nightmare/03-D is for Dangerous.mp3
+music/Album - Favourite Worst Nightmare/04-Balaclava.mp3
+music/Album - Favourite Worst Nightmare/05-Fluorescent Adolescent.mp3
+music/Album - Favourite Worst Nightmare/06-Only Ones Who Know.mp3
+music/Album - Favourite Worst Nightmare/07-Do Me a Favour.mp3
+music/Album - Favourite Worst Nightmare/08-This House is a Circus.mp3
+music/Album - Favourite Worst Nightmare/09-If You Were There, Beware.mp3
+music/Album - Favourite Worst Nightmare/10-The Bad Thing.mp3
+music/Album - Favourite Worst Nightmare/11-Old Yellow Bricks.mp3
 music/Album - Guilty/01-Guilty.mp3
 music/Album - Guilty/02-You Won't Be Satisfied.mp3
 music/Album - Guilty/03-Sentimental Journey.mp3
