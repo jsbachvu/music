@@ -1,3 +1,12 @@
+music/Album - 461 Ocean Boulevard/01-Motherless Children.mp3
+music/Album - 461 Ocean Boulevard/02-Give Me Strength.mp3
+music/Album - 461 Ocean Boulevard/03-Willie And The Hand Jive.mp3
+music/Album - 461 Ocean Boulevard/04-Get Ready.mp3
+music/Album - 461 Ocean Boulevard/05-I Shot The Sheriff.mp3
+music/Album - 461 Ocean Boulevard/07-Please Be With Me.mp3
+music/Album - 461 Ocean Boulevard/08-Let It Grow.mp3
+music/Album - 461 Ocean Boulevard/09-Steady Rollin' Man.mp3
+music/Album - 461 Ocean Boulevard/10-Mainline Florida.mp3
 music/Album - AM/01-Do I Wanna Know.mp3
 music/Album - AM/02-R U Mine.mp3
 music/Album - AM/03-One For The Road.mp3
@@ -9,6 +18,48 @@ music/Album - AM/09-Why'd You Only Call Me When You're High.mp3
 music/Album - AM/10-Snap Out Of It.mp3
 music/Album - AM/11-Knee Socks.mp3
 music/Album - AM/12-I Wanna Be Yours.mp3
+music/Album - Blues/01-Don't Get Around Much Anymore.mp3
+music/Album - Blues/02-Ain't Misbehavin.mp3
+music/Album - Blues/03-Sophisticated Lady.mp3
+music/Album - Blues/04-Sugar Rum Cherry.mp3
+music/Album - Blues/05-A Gypsy Without a Song.mp3
+music/Album - Blues/06-Mood Indigo.mp3
+music/Album - Blues/07-I Ain't Got Nothin but the Blues.mp3
+music/Album - Blues/08-How High the Moon.mp3
+music/Album - Blues/09-Rhapsody in Blue.mp3
+music/Album - Blues/10-In My Solitude.mp3
+music/Album - Blues/11-Take the a Train.mp3
+music/Album - Blues/12-April in Paris.mp3
+music/Album - Blues/13-Perdido.mp3
+music/Album - Blues/14-Harlem Nocturne.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/01-For All We Know.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/02-Portrait in Black and White.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/03-Broken Wing.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/04-I'm a Fool to Want You.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/05-Stella by Starlight.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/07-You'd Be so Nice to Come Home to.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/08-Arborway.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/09-Four.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/10-Almost Blue.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/11-Beatrice.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/12-My Funny Valentine.mp3
+music/Album - Chet Baker In Tokyo (The Complete Concert)/13-Seven Steps to Heaven.mp3
+music/Album - Clapton/01-Travelin' Alone.mp3
+music/Album - Clapton/02-Rocking Chair.mp3
+music/Album - Clapton/03-River Runs Deep.mp3
+music/Album - Clapton/04-Judgement Day.mp3
+music/Album - Clapton/05-How Deep is the Ocean.mp3
+music/Album - Clapton/06-My Very Good Friend the Milkman.mp3
+music/Album - Clapton/07-Can't Hold out Much Longer.mp3
+music/Album - Clapton/08-That's No Way to Get Along.mp3
+music/Album - Clapton/09-Everything Will Be Alright.mp3
+music/Album - Clapton/10-Diamonds Made from Rain.mp3
+music/Album - Clapton/11-When Somebody Thinks You're Wonderful.mp3
+music/Album - Clapton/12-Hard Times Blues.mp3
+music/Album - Clapton/13-Run Back to Your Side.mp3
+music/Album - Clapton/14-Autumn Leaves.mp3
+music/Album - Clapton/15-Midnight Hour Blues (Bonus Track).mp3
+music/Album - Clapton/16-I Was Fooled (Bonus Track).mp3
 music/Album - Comeblack/02-No One Like You.mp3
 music/Album - Comeblack/03-The Zoo.mp3
 music/Album - Comeblack/04-Rock You Like a Hurricane (2011).mp3
@@ -81,6 +132,33 @@ music/Album - Hello, Dolly!/09-Be My Life's Companion.mp3
 music/Album - Hello, Dolly!/10-Blueberry Hill.mp3
 music/Album - Hello, Dolly!/11-You Are Woman I Am Man.mp3
 music/Album - Hello, Dolly!/12-Jeepers Creepers.mp3
+music/Album - It Could Happen to You/01-Do It the Hard Way.mp3
+music/Album - It Could Happen to You/02-I'm Old Fashioned.mp3
+music/Album - It Could Happen to You/03-You're Driving Me Crazy (What Did I Do).mp3
+music/Album - It Could Happen to You/04-It Could Happen to You.mp3
+music/Album - It Could Happen to You/05-My Heart Stood Still.mp3
+music/Album - It Could Happen to You/06-The More I See You.mp3
+music/Album - It Could Happen to You/07-Everything Happens to Me.mp3
+music/Album - It Could Happen to You/08-Dancing on the Ceiling.mp3
+music/Album - It Could Happen to You/09-How Long Has This Been Going On.mp3
+music/Album - It Could Happen to You/10-Old Devil Moon.mp3
+music/Album - O Sole Mio/01-La donna è mobile.mp3
+music/Album - O Sole Mio/02-Chitarra romana.mp3
+music/Album - O Sole Mio/03-'O sole mio.mp3
+music/Album - O Sole Mio/04-Lolita.mp3
+music/Album - O Sole Mio/05-Amor ti vieta.mp3
+music/Album - O Sole Mio/06-Nessun dorma (Vincerò).mp3
+music/Album - O Sole Mio/07-Mamma.mp3
+music/Album - O Sole Mio/08-Torna a Surriento.mp3
+music/Album - O Sole Mio/09-Che gelida manina.mp3
+music/Album - O Sole Mio/10-O soave fanciulla.mp3
+music/Album - O Sole Mio/11-La mia canzone al vento.mp3
+music/Album - O Sole Mio/12-Non ti scordar di me.mp3
+music/Album - O Sole Mio/13-Oh, fede negar potessi agli occhi miei... Quando le sere al placido.mp3
+music/Album - O Sole Mio/14-Questa o quella.mp3
+music/Album - O Sole Mio/15-Rondine al nido.mp3
+music/Album - O Sole Mio/16-Una furtiva lagrima.mp3
+music/Album - O Sole Mio/18-Vesti la giubba.mp3
 music/Album - Riding With The King (20th Anniversary Deluxe Edition)/01-Riding with the King.mp3
 music/Album - Riding With The King (20th Anniversary Deluxe Edition)/02-Ten Long Years.mp3
 music/Album - Riding With The King (20th Anniversary Deluxe Edition)/03-Key to the Highway.mp3
