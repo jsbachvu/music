@@ -142,6 +142,13 @@ music/Album - It Could Happen to You/07-Everything Happens to Me.mp3
 music/Album - It Could Happen to You/08-Dancing on the Ceiling.mp3
 music/Album - It Could Happen to You/09-How Long Has This Been Going On.mp3
 music/Album - It Could Happen to You/10-Old Devil Moon.mp3
+music/Album - Nocturnes in Chopin/02-Ballade No. 1 in G Minor, Op. 23.mp3
+music/Album - Nocturnes in Chopin/03-Nocturne No.2 in E Flat, Op.9 No.2.mp3
+music/Album - Nocturnes in Chopin/05-Prelude In D Flat Major, Op. 28, No. 15 'Raindrop'.mp3
+music/Album - Nocturnes in Chopin/06-Ballade No. 4 In F Minor, Op. 52.mp3
+music/Album - Nocturnes in Chopin/07-Etude No. 2 In F Minor, Op. 25.mp3
+music/Album - Nocturnes in Chopin/08-Nocturne No.9 In B, Op.32 No.1.mp3
+music/Album - Nocturnes in Chopin/10-Nocturne No.11 in G Minor, Op.37 No.1.mp3
 music/Album - O Sole Mio/01-La donna è mobile.mp3
 music/Album - O Sole Mio/02-Chitarra romana.mp3
 music/Album - O Sole Mio/03-'O sole mio.mp3
