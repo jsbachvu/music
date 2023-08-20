@@ -255,6 +255,7 @@ music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/07-I Could Have Danced All Night.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/08-Blame It On My Youth.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/09-I Get A Kick Out Of You.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/10-All At Sea.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/11-Wind Cries Mary.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/12-Lover, You Should Have Come Over.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/13-It's About Time.mp3
@@ -262,6 +263,7 @@ music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/15-Everlasting Love.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/16-Frontin' (Live At The BBC _ 2004).mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/17-Can't We Be Friends.mp3
+music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/18-High And Dry (Live On The South Bank Show _ 2014).mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/19-God Only Knows.mp3
 music/Album - Unplugged (Deluxe Edition) (Live)/01-Signe (Acoustic Live).mp3
 music/Album - Unplugged (Deluxe Edition) (Live)/02-Before You Accuse Me (Acoustic Live).mp3
