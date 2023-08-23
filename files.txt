@@ -44,6 +44,19 @@ music/Album - Chet Baker In Tokyo (The Complete Concert)/10-Almost Blue.mp3
 music/Album - Chet Baker In Tokyo (The Complete Concert)/11-Beatrice.mp3
 music/Album - Chet Baker In Tokyo (The Complete Concert)/12-My Funny Valentine.mp3
 music/Album - Chet Baker In Tokyo (The Complete Concert)/13-Seven Steps to Heaven.mp3
+music/Album - Chet Baker Sings/01-That Old Feeling.mp3
+music/Album - Chet Baker Sings/02-It's Always You.mp3
+music/Album - Chet Baker Sings/03-Like Someone in Love.mp3
+music/Album - Chet Baker Sings/04-My Ideal.mp3
+music/Album - Chet Baker Sings/05-I've Never Been in Love Before.mp3
+music/Album - Chet Baker Sings/07-But Not for Me.mp3
+music/Album - Chet Baker Sings/08-Time After Time.mp3
+music/Album - Chet Baker Sings/09-I Get Along Without You Very Well.mp3
+music/Album - Chet Baker Sings/10-My Funny Valentine.mp3
+music/Album - Chet Baker Sings/11-There Will Never Be Another You.mp3
+music/Album - Chet Baker Sings/12-The Thrill Is Gone.mp3
+music/Album - Chet Baker Sings/13-I Fall in Love Too Easily.mp3
+music/Album - Chet Baker Sings/14-Look for a Silver Lining.mp3
 music/Album - Clapton/01-Travelin' Alone.mp3
 music/Album - Clapton/02-Rocking Chair.mp3
 music/Album - Clapton/03-River Runs Deep.mp3
@@ -60,6 +73,7 @@ music/Album - Clapton/13-Run Back to Your Side.mp3
 music/Album - Clapton/14-Autumn Leaves.mp3
 music/Album - Clapton/15-Midnight Hour Blues (Bonus Track).mp3
 music/Album - Clapton/16-I Was Fooled (Bonus Track).mp3
+music/Album - Comeblack/01-Rhythm of Love.mp3
 music/Album - Comeblack/02-No One Like You.mp3
 music/Album - Comeblack/03-The Zoo.mp3
 music/Album - Comeblack/04-Rock You Like a Hurricane (2011).mp3
@@ -68,6 +82,7 @@ music/Album - Comeblack/06-Wind of Change.mp3
 music/Album - Comeblack/07-Still Loving You.mp3
 music/Album - Comeblack/08-Tainted Love.mp3
 music/Album - Comeblack/09-Children of the Revolution.mp3
+music/Album - Comeblack/10-Across the Universe.mp3
 music/Album - Comeblack/11-Tin Soldier.mp3
 music/Album - Comeblack/12-All Day And All of the Night.mp3
 music/Album - Comeblack/13-Ruby Tuesday.mp3
