@@ -240,6 +240,16 @@ music/Album - The Car/07-Big Ideas.mp3
 music/Album - The Car/08-Hello You.mp3
 music/Album - The Car/09-Mr Schwartz.mp3
 music/Album - The Car/10-Perfect Sense.mp3
+music/Album - The Dark Side of the Moon/01-Speak To Me.mp3
+music/Album - The Dark Side of the Moon/02-Breathe (In The Air).mp3
+music/Album - The Dark Side of the Moon/03-On The Run.mp3
+music/Album - The Dark Side of the Moon/04-Time.mp3
+music/Album - The Dark Side of the Moon/05-The Great Gig In The Sky.mp3
+music/Album - The Dark Side of the Moon/06-Money.mp3
+music/Album - The Dark Side of the Moon/07-Us And Them.mp3
+music/Album - The Dark Side of the Moon/08-Any Colour You Like.mp3
+music/Album - The Dark Side of the Moon/09-Brain Damage.mp3
+music/Album - The Dark Side of the Moon/10-Eclipse.mp3
 music/Album - The Division Bell/01-Cluster One.mp3
 music/Album - The Division Bell/02-What Do You Want from Me.mp3
 music/Album - The Division Bell/03-Poles Apart.mp3
@@ -249,7 +259,34 @@ music/Album - The Division Bell/06-Wearing the Inside Out.mp3
 music/Album - The Division Bell/07-Take It Back.mp3
 music/Album - The Division Bell/08-Coming Back to Life.mp3
 music/Album - The Division Bell/09-Keep Talking.mp3
+music/Album - The Division Bell/10-Lost for Words.mp3
 music/Album - The Division Bell/11-High Hopes.mp3
+music/Album - The Wall/01-In The Flesh？.mp3
+music/Album - The Wall/02-The Thin Ice.mp3
+music/Album - The Wall/03-Another Brick In The Wall (Part 1).mp3
+music/Album - The Wall/04-The Happiest Days Of Our Lives.mp3
+music/Album - The Wall/05-Another Brick In The Wall (Part 2).mp3
+music/Album - The Wall/06-Mother.mp3
+music/Album - The Wall/07-Goodbye Blue Sky.mp3
+music/Album - The Wall/08-Empty Spaces.mp3
+music/Album - The Wall/09-Young Lust.mp3
+music/Album - The Wall/10-One Of My Turns.mp3
+music/Album - The Wall/11-Don't Leave Me Now.mp3
+music/Album - The Wall/12-Another Brick In The Wall (Part 3).mp3
+music/Album - The Wall/13-Goodbye Cruel World.mp3
+music/Album - The Wall/14-Hey You.mp3
+music/Album - The Wall/15-Is There Anybody Out There？.mp3
+music/Album - The Wall/16-Nobody Home.mp3
+music/Album - The Wall/17-Vera.mp3
+music/Album - The Wall/18-Bring The Boys Back Home.mp3
+music/Album - The Wall/19-Comfortably Numb.mp3
+music/Album - The Wall/20-The Show Must Go On.mp3
+music/Album - The Wall/21-In The Flesh.mp3
+music/Album - The Wall/22-Run Like Hell.mp3
+music/Album - The Wall/23-Waiting For The Worms.mp3
+music/Album - The Wall/24-Stop.mp3
+music/Album - The Wall/25-The Trial.mp3
+music/Album - The Wall/26-Outside The Wall.mp3
 music/Album - Tranquility Base Hotel & Casino/01-Star Treatment.mp3
 music/Album - Tranquility Base Hotel & Casino/02-One Point Perspective.mp3
 music/Album - Tranquility Base Hotel & Casino/03-American Sports.mp3
@@ -331,3 +368,8 @@ music/Album - Use Your Illusion II/12-You Could Be Mine.mp3
 music/Album - Use Your Illusion II/13-Don't Cry.mp3
 music/Album - Why'd You Only Call Me When You're High/1-Why'd You Only Call Me When You're High.mp3
 music/Album - Why'd You Only Call Me When You're High/2-Stop The World I Wanna Get Off With You.mp3
+music/Album - Wish You Were Here/1-Shine On You Crazy Diamond (Parts I-V).mp3
+music/Album - Wish You Were Here/2-Welcome To The Machine.mp3
+music/Album - Wish You Were Here/3-Have A Cigar.mp3
+music/Album - Wish You Were Here/4-Wish You Were Here.mp3
+music/Album - Wish You Were Here/5-Shine On You Crazy Diamond (Parts Vi-Ix).mp3
