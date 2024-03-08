@@ -316,6 +316,26 @@ music/Album - Sand/08-Passing Through.mp3
 music/Album - Sand/09-Leaving Antwerp.mp3
 music/Album - Sand/10-Halfway.mp3
 music/Album - Sand/11-Powerless.mp3
+music/Album - SB3/01-Enter the Realm (Intro).mp3
+music/Album - SB3/02-A Bunch of Questions.mp3
+music/Album - SB3/03-Tranquilo.mp3
+music/Album - SB3/04-Cool Thieves.mp3
+music/Album - SB3/05-Dungeon Sound.mp3
+music/Album - SB3/06-Talk That Slang.mp3
+music/Album - SB3/07-The Swing of Justice.mp3
+music/Album - SB3/08-Spoiler Alert.mp3
+music/Album - SB3/09-Flip the Script.mp3
+music/Album - SB3/10-Muy Tranquilo.mp3
+music/Album - SB3/11-On the Run.mp3
+music/Album - SB3/12-In This Whole World.mp3
+music/Album - SB3/13-The Anthem.mp3
+music/Album - SB3/14-Cirkus.mp3
+music/Album - SB3/15-Victory.mp3
+music/Album - SB3/16-Got To Be In All the Way.mp3
+music/Album - SB3/17-Balkan Express.mp3
+music/Album - SB3/18-Adriatic Summer Nights.mp3
+music/Album - SB3/19-Oriental Job.mp3
+music/Album - SB3/20-Walkin' Down the Street.mp3
 music/Album - Social Cues/01-Broken Boy.mp3
 music/Album - Social Cues/02-Social Cues.mp3
 music/Album - Social Cues/03-Black Madonna.mp3
