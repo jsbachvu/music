@@ -32,6 +32,24 @@ music/Album - Blues/11-Take the a Train.mp3
 music/Album - Blues/12-April in Paris.mp3
 music/Album - Blues/13-Perdido.mp3
 music/Album - Blues/14-Harlem Nocturne.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/01-Everlasting Light.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/02-Next Girl.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/03-Tighten Up.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/04-Howlin' for You.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/05-She's Long Gone.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/06-Black Mud.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/07-The Only One.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/08-Too Afraid to Love You.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/09-Ten Cent Pistol.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/10-Sinister Kid.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/11-The Go Getter.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/12-I'm Not the One.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/13-Unknown Brother.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/14-Never Gonna Give You Up.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/15-These Days.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/16-Chop and Change.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/17-Keep My Name Outta Your Mouth.mp3
+music/Album - Brothers (Deluxe Remastered Anniversary Edition)/18-Black Mud Part II.mp3
 music/Album - Chet Baker In Tokyo (The Complete Concert)/01-For All We Know.mp3
 music/Album - Chet Baker In Tokyo (The Complete Concert)/02-Portrait in Black and White.mp3
 music/Album - Chet Baker In Tokyo (The Complete Concert)/03-Broken Wing.mp3
@@ -86,6 +104,31 @@ music/Album - Comeblack/10-Across the Universe.mp3
 music/Album - Comeblack/11-Tin Soldier.mp3
 music/Album - Comeblack/12-All Day And All of the Night.mp3
 music/Album - Comeblack/13-Ruby Tuesday.mp3
+music/Album - Demon Days/01-Intro.mp3
+music/Album - Demon Days/02-Last Living Souls.mp3
+music/Album - Demon Days/03-Kids with Guns.mp3
+music/Album - Demon Days/04-O Green World.mp3
+music/Album - Demon Days/05-Dirty Harry.mp3
+music/Album - Demon Days/06-Feel Good Inc..mp3
+music/Album - Demon Days/07-El Mañana.mp3
+music/Album - Demon Days/08-Every Planet We Reach Is Dead.mp3
+music/Album - Demon Days/09-November Has Come.mp3
+music/Album - Demon Days/10-All Alone.mp3
+music/Album - Demon Days/11-White Light.mp3
+music/Album - Demon Days/12-DARE.mp3
+music/Album - Demon Days/13-Fire Coming out of the Monkey's Head.mp3
+music/Album - Demon Days/14-Don't Get Lost in Heaven.mp3
+music/Album - Demon Days/15-Demon Days.mp3
+music/Album - Dropout Boogie/01-Wild Child.mp3
+music/Album - Dropout Boogie/02-It Ain't Over.mp3
+music/Album - Dropout Boogie/03-For the Love of Money.mp3
+music/Album - Dropout Boogie/04-Your Team Is Looking Good.mp3
+music/Album - Dropout Boogie/05-Good Love (feat. Billy F Gibbons).mp3
+music/Album - Dropout Boogie/06-How Long.mp3
+music/Album - Dropout Boogie/07-Burn the Damn Thing Down.mp3
+music/Album - Dropout Boogie/08-Happiness.mp3
+music/Album - Dropout Boogie/09-Baby I'm Coming Home.mp3
+music/Album - Dropout Boogie/10-Didn't I Love You.mp3
 music/Album - El Camino/01-Lonely Boy.mp3
 music/Album - El Camino/02-Dead and Gone.mp3
 music/Album - El Camino/03-Gold on the Ceiling.mp3
@@ -96,6 +139,18 @@ music/Album - El Camino/07-Sister.mp3
 music/Album - El Camino/08-Hell of a Season.mp3
 music/Album - El Camino/10-Nova Baby.mp3
 music/Album - El Camino/11-Mind Eraser.mp3
+music/Album - Electrophonic Chronic/01-Keep On Dreamin'.mp3
+music/Album - Electrophonic Chronic/02-Eyez.mp3
+music/Album - Electrophonic Chronic/03-Heaven Is A Place.mp3
+music/Album - Electrophonic Chronic/04-Califone Interlude.mp3
+music/Album - Electrophonic Chronic/05-River.mp3
+music/Album - Electrophonic Chronic/06-Sunshine.mp3
+music/Album - Electrophonic Chronic/07-A Man Will Do Wrong.mp3
+music/Album - Electrophonic Chronic/08-Behind The Eyes.mp3
+music/Album - Electrophonic Chronic/09-Backstage Mess.mp3
+music/Album - Electrophonic Chronic/10-Sporting Girls Interlude.mp3
+music/Album - Electrophonic Chronic/11-Love Doesn't Live Here Anymore.mp3
+music/Album - Electrophonic Chronic/12-Only One For Me.mp3
 music/Album - Favourite Worst Nightmare/01-Brianstorm.mp3
 music/Album - Favourite Worst Nightmare/02-Teddy Picker.mp3
 music/Album - Favourite Worst Nightmare/03-D is for Dangerous.mp3
@@ -107,6 +162,7 @@ music/Album - Favourite Worst Nightmare/08-This House is a Circus.mp3
 music/Album - Favourite Worst Nightmare/09-If You Were There, Beware.mp3
 music/Album - Favourite Worst Nightmare/10-The Bad Thing.mp3
 music/Album - Favourite Worst Nightmare/11-Old Yellow Bricks.mp3
+music/Album - Favourite Worst Nightmare/12-505.mp3
 music/Album - Fever/01-Fever.mp3
 music/Album - Fever/02-Changes.mp3
 music/Album - Fever/03-Wrong Faces.mp3
@@ -157,6 +213,28 @@ music/Album - It Could Happen to You/07-Everything Happens to Me.mp3
 music/Album - It Could Happen to You/08-Dancing on the Ceiling.mp3
 music/Album - It Could Happen to You/09-How Long Has This Been Going On.mp3
 music/Album - It Could Happen to You/10-Old Devil Moon.mp3
+music/Album - Melophobia/01-Spiderhead.mp3
+music/Album - Melophobia/02-Come A Little Closer.mp3
+music/Album - Melophobia/03-Telescope.mp3
+music/Album - Melophobia/04-It's Just Forever.mp3
+music/Album - Melophobia/05-Take It Or Leave It.mp3
+music/Album - Melophobia/06-Halo.mp3
+music/Album - Melophobia/07-Black Widow.mp3
+music/Album - Melophobia/08-Hypocrite.mp3
+music/Album - Melophobia/09-Teeth.mp3
+music/Album - Melophobia/10-Cigarette Daydreams.mp3
+music/Album - Metallica/01-Enter Sandman.mp3
+music/Album - Metallica/02-Sad But True.mp3
+music/Album - Metallica/03-Holier Than Thou.mp3
+music/Album - Metallica/04-The Unforgiven.mp3
+music/Album - Metallica/05-Wherever I May Roam.mp3
+music/Album - Metallica/06-Don't Tread On Me.mp3
+music/Album - Metallica/07-Through The Never.mp3
+music/Album - Metallica/08-Nothing Else Matters.mp3
+music/Album - Metallica/09-Of Wolf And Man.mp3
+music/Album - Metallica/10-The God That Failed.mp3
+music/Album - Metallica/11-My Friend Of Misery.mp3
+music/Album - Metallica/12-The Struggle Within.mp3
 music/Album - Nocturnes in Chopin/01-Nocturne for Piano in B Flat Minor, Op. 9, No. 1.mp3
 music/Album - Nocturnes in Chopin/02-Ballade No. 1 in G Minor, Op. 23.mp3
 music/Album - Nocturnes in Chopin/03-Nocturne No.2 in E Flat, Op.9 No.2.mp3
@@ -166,6 +244,7 @@ music/Album - Nocturnes in Chopin/06-Ballade No. 4 In F Minor, Op. 52.mp3
 music/Album - Nocturnes in Chopin/07-Etude No. 2 In F Minor, Op. 25.mp3
 music/Album - Nocturnes in Chopin/08-Nocturne No.9 In B, Op.32 No.1.mp3
 music/Album - Nocturnes in Chopin/09-Sonata No. 2 In B-flat Minor, Op. 35 - Ii. Scherzo.mp3
+music/Album - Nocturnes in Chopin/09-Sonata No. 2 In B-flat Minor, Op. 35： Ii. Scherzo.mp3
 music/Album - Nocturnes in Chopin/10-Nocturne No.11 in G Minor, Op.37 No.1.mp3
 music/Album - Nocturnes in Chopin/11-Nocturne No.19 in E Minor, Op.72 No.1.mp3
 music/Album - O Sole Mio/01-La donna è mobile.mp3
@@ -185,6 +264,33 @@ music/Album - O Sole Mio/14-Questa o quella.mp3
 music/Album - O Sole Mio/15-Rondine al nido.mp3
 music/Album - O Sole Mio/16-Una furtiva lagrima.mp3
 music/Album - O Sole Mio/18-Vesti la giubba.mp3
+music/Album - Plastic Beach/01-Orchestral Intro (feat. Sinfonia ViVA).mp3
+music/Album - Plastic Beach/02-Welcome to the World of the Plastic Beach (feat. Snoop Dogg and Hypnotic Brass Ensemble).mp3
+music/Album - Plastic Beach/03-White Flag (feat. Bashy, Kano and the National Orchestra for Arabic Music).mp3
+music/Album - Plastic Beach/04-Rhinestone Eyes.mp3
+music/Album - Plastic Beach/05-Stylo (feat. Mos Def and Bobby Womack).mp3
+music/Album - Plastic Beach/06-Superfast Jellyfish (feat. Gruff Rhys and De La Soul).mp3
+music/Album - Plastic Beach/07-Empire Ants (feat. Little Dragon).mp3
+music/Album - Plastic Beach/08-Glitter Freeze (feat. Mark E Smith).mp3
+music/Album - Plastic Beach/09-Some Kind of Nature (feat. Lou Reed).mp3
+music/Album - Plastic Beach/10-On Melancholy Hill.mp3
+music/Album - Plastic Beach/11-Broken.mp3
+music/Album - Plastic Beach/12-Sweepstakes (feat. Mos Def and Hypnotic Brass Ensemble).mp3
+music/Album - Plastic Beach/13-Plastic Beach (feat. Mick Jones and Paul Simonon).mp3
+music/Album - Plastic Beach/14-To Binge (feat. Little Dragon).mp3
+music/Album - Plastic Beach/15-Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA).mp3
+music/Album - Plastic Beach/16-Pirate Jet.mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/01-Fight Fire With Fire (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/02-Ride The Lightning (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/03-For Whom The Bell Tolls (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/04-Fade To Black (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/05-Trapped Under Ice (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/06-Escape (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/07-Creeping Death (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/08-The Call Of Ktulu (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/09-The Ecstasy of Gold.mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/21-Am I Evil？ (Remastered).mp3
+music/Album - Ride The Lightning (Deluxe Remaster)/22-Blitzkrieg (Remastered).mp3
 music/Album - Riding With The King (20th Anniversary Deluxe Edition)/01-Riding with the King.mp3
 music/Album - Riding With The King (20th Anniversary Deluxe Edition)/02-Ten Long Years.mp3
 music/Album - Riding With The King (20th Anniversary Deluxe Edition)/03-Key to the Highway.mp3
@@ -214,6 +320,7 @@ music/Album - Social Cues/01-Broken Boy.mp3
 music/Album - Social Cues/02-Social Cues.mp3
 music/Album - Social Cues/03-Black Madonna.mp3
 music/Album - Social Cues/04-Night Running.mp3
+music/Album - Social Cues/05-Skin and Bones.mp3
 music/Album - Social Cues/06-Ready To Let Go.mp3
 music/Album - Social Cues/07-House Of Glass.mp3
 music/Album - Social Cues/08-Love's The Only Way.mp3
@@ -221,6 +328,7 @@ music/Album - Social Cues/09-The War Is Over.mp3
 music/Album - Social Cues/10-Dance Dance.mp3
 music/Album - Social Cues/11-What I'm Becoming.mp3
 music/Album - Social Cues/12-Tokyo Smoke.mp3
+music/Album - Social Cues/13-Goodbye.mp3
 music/Album - Tell Me I'm Pretty/01-Cry Baby.mp3
 music/Album - Tell Me I'm Pretty/02-Mess Around.mp3
 music/Album - Tell Me I'm Pretty/03-Sweetie Little Jean.mp3
@@ -234,6 +342,7 @@ music/Album - Tell Me I'm Pretty/10-Portuguese Knife Fight.mp3
 music/Album - The Car/01-There'd Better Be A Mirrorball.mp3
 music/Album - The Car/02-I Ain't Quite Where I Think I Am.mp3
 music/Album - The Car/03-Sculptures Of Anything Goes.mp3
+music/Album - The Car/04-Jet Skis On The Moat.mp3
 music/Album - The Car/05-Body Paint.mp3
 music/Album - The Car/06-The Car.mp3
 music/Album - The Car/07-Big Ideas.mp3
@@ -298,6 +407,17 @@ music/Album - Tranquility Base Hotel & Casino/08-Science Fiction.mp3
 music/Album - Tranquility Base Hotel & Casino/09-She Looks Like Fun.mp3
 music/Album - Tranquility Base Hotel & Casino/10-Batphone.mp3
 music/Album - Tranquility Base Hotel & Casino/11-The Ultracheese.mp3
+music/Album - Turn Blue/01-Weight of Love.mp3
+music/Album - Turn Blue/02-In Time.mp3
+music/Album - Turn Blue/03-Turn Blue.mp3
+music/Album - Turn Blue/04-Fever.mp3
+music/Album - Turn Blue/05-Year in Review.mp3
+music/Album - Turn Blue/06-Bullet in the Brain.mp3
+music/Album - Turn Blue/07-It's Up to You Now.mp3
+music/Album - Turn Blue/08-Waiting on Words.mp3
+music/Album - Turn Blue/09-10 Lovers.mp3
+music/Album - Turn Blue/10-In Our Prime.mp3
+music/Album - Turn Blue/11-Gotta Get Away.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/01-What A Difference A Day Made.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/02-These Are The Days.mp3
 music/Album - Twentysomething (Special Edition, with bonus track 'God Only Knows')/03-Singin' In The Rain.mp3
@@ -373,3 +493,17 @@ music/Album - Wish You Were Here/2-Welcome To The Machine.mp3
 music/Album - Wish You Were Here/3-Have A Cigar.mp3
 music/Album - Wish You Were Here/4-Wish You Were Here.mp3
 music/Album - Wish You Were Here/5-Shine On You Crazy Diamond (Parts Vi-Ix).mp3
+music/Album - Yours, Dreamily,/01-Once We Begin (Intro).mp3
+music/Album - Yours, Dreamily,/02-Outta My Mind.mp3
+music/Album - Yours, Dreamily,/03-Put a Flower in Your Pocket.mp3
+music/Album - Yours, Dreamily,/04-Pistol Made of Bones.mp3
+music/Album - Yours, Dreamily,/05-Everything You Do (You Do for You).mp3
+music/Album - Yours, Dreamily,/06-Stay in My Corner.mp3
+music/Album - Yours, Dreamily,/07-Cold Companion.mp3
+music/Album - Yours, Dreamily,/08-The Arc.mp3
+music/Album - Yours, Dreamily,/09-Nature's Child.mp3
+music/Album - Yours, Dreamily,/10-Velvet Ditch.mp3
+music/Album - Yours, Dreamily,/11-Chains of Love.mp3
+music/Album - Yours, Dreamily,/12-Come & Go.mp3
+music/Album - Yours, Dreamily,/13-Rosie (Ooh La La).mp3
+music/Album - Yours, Dreamily,/14-Searching the Blue.mp3
