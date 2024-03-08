@@ -507,3 +507,12 @@ music/Album - Yours, Dreamily,/11-Chains of Love.mp3
 music/Album - Yours, Dreamily,/12-Come & Go.mp3
 music/Album - Yours, Dreamily,/13-Rosie (Ooh La La).mp3
 music/Album - Yours, Dreamily,/14-Searching the Blue.mp3
+music/Selfish Electro/02-Lebanese Blonde (Remastered 2022).mp3
+music/Selfish Electro/04-Blue Bird.mp3
+music/Selfish Electro/05-Finally Moving.mp3
+music/Selfish Electro/06-Southern Man.mp3
+music/Selfish Electro/07-In Your Head.mp3
+music/Selfish Electro/08-Ghetto in Paradise.mp3
+music/Selfish Electro/09-But I Do.mp3
+music/Selfish Electro/11-Nights Introlude.mp3
+music/Selfish Electro/12-Woman.mp3
