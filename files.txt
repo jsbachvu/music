@@ -404,6 +404,15 @@ music/Album - The Division Bell/08-Coming Back to Life.mp3
 music/Album - The Division Bell/09-Keep Talking.mp3
 music/Album - The Division Bell/10-Lost for Words.mp3
 music/Album - The Division Bell/11-High Hopes.mp3
+music/Album - The New Abnormal/1-The Adults Are Talking.mp3
+music/Album - The New Abnormal/2-Selfless.mp3
+music/Album - The New Abnormal/3-Brooklyn Bridge To Chorus.mp3
+music/Album - The New Abnormal/4-Bad Decisions.mp3
+music/Album - The New Abnormal/5-Eternal Summer.mp3
+music/Album - The New Abnormal/6-At The Door.mp3
+music/Album - The New Abnormal/7-Why Are Sundays So Depressing.mp3
+music/Album - The New Abnormal/8-Not The Same Anymore.mp3
+music/Album - The New Abnormal/9-Ode To The Mets.mp3
 music/Album - The Wall/01-In The Flesh？.mp3
 music/Album - The Wall/02-The Thin Ice.mp3
 music/Album - The Wall/03-Another Brick In The Wall (Part 1).mp3
