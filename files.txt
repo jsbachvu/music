@@ -18,6 +18,20 @@ music/Album - AM/09-Why'd You Only Call Me When You're High.mp3
 music/Album - AM/10-Snap Out Of It.mp3
 music/Album - AM/11-Knee Socks.mp3
 music/Album - AM/12-I Wanna Be Yours.mp3
+music/Album - Amor (Edición Especial En Español)/01-Bésame Mucho.mp3
+music/Album - Amor (Edición Especial En Español)/02-Canción Desafinada (Radio Edit).mp3
+music/Album - Amor (Edición Especial En Español)/03-Solamente Una Vez.mp3
+music/Album - Amor (Edición Especial En Español)/04-Somos Novios.mp3
+music/Album - Amor (Edición Especial En Español)/05-Júrame.mp3
+music/Album - Amor (Edición Especial En Español)/06-Pero Te Extraño.mp3
+music/Album - Amor (Edición Especial En Español)/07-Las Hojas Muertas.mp3
+music/Album - Amor (Edición Especial En Español)/08-Momentos.mp3
+music/Album - Amor (Edición Especial En Español)/09-Me Faltas.mp3
+music/Album - Amor (Edición Especial En Español)/10-Cuando Me Enamoro.mp3
+music/Album - Amor (Edición Especial En Español)/11-Porque Tú Me Acostumbraste.mp3
+music/Album - Amor (Edición Especial En Español)/12-Amapola.mp3
+music/Album - Amor (Edición Especial En Español)/13-Verano.mp3
+music/Album - Amor (Edición Especial En Español)/14-Nuestro Encuentro (Sentado A 'Beira Do Caminho).mp3
 music/Album - Blues/01-Don't Get Around Much Anymore.mp3
 music/Album - Blues/02-Ain't Misbehavin.mp3
 music/Album - Blues/03-Sophisticated Lady.mp3
